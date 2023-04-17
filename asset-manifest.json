@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dactam54/youtube-mp3/static/css/main.f8bd2344.css",
+    "main.js": "/dactam54/youtube-mp3/static/js/main.b25151ed.js",
+    "index.html": "/dactam54/youtube-mp3/index.html",
+    "main.f8bd2344.css.map": "/dactam54/youtube-mp3/static/css/main.f8bd2344.css.map",
+    "main.b25151ed.js.map": "/dactam54/youtube-mp3/static/js/main.b25151ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8bd2344.css",
+    "static/js/main.b25151ed.js"
+  ]
+}
